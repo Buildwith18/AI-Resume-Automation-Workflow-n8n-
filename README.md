@@ -1,4 +1,4 @@
-# 🤖 AI Resume Processing Workflow — Automated Resume Extraction, Analysis & Storage using n8n + ChatGPT
+# AI Resume Processing Workflow — Automated Resume Extraction, Analysis & Storage using n8n + ChatGPT
 
 Modern, end-to-end resume automation that ingests Gmail attachments, parses them with OpenAI, and stores structured outcomes in Google Drive or downstream systems.
 
