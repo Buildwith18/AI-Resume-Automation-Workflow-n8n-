@@ -38,17 +38,8 @@ This documentation showcases an AI-powered automation workflow that streamlines 
 ![Workflow Automation](Img/Workflow.png)  
 _Complete n8n workflow orchestration_
 
-![Gmail Trigger](Img/Gmail.png)  
-_Real-time Gmail event trigger configuration_
-
-![Drive Upload](Img/DriveUpload.png)  
-_Automated Google Drive folder storage_
-
-![OpenAI Parsing](Img/OpenAI.png)  
-_ChatGPT node generating structured resume intelligence_
-
-![Final Output](Img/FinalOutput.png)  
-_Formatted JSON response ready for downstream APIs_
+![Excel Sheet Output](Img/Sheet_Output.jpeg)  
+_Excel Sheet Output_
 
 ---
 
